@@ -29,7 +29,7 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/webconfig"
+              "src/web.config"
             ],
             "styles": [
               "src/styles.css"
